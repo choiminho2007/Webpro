@@ -4,7 +4,7 @@ public class Hello {
 	public static void main(String[] args) {
 		
 		System.out.println("Hello, Java");
-		System.out.println("Welcome~");
+		System.out.println("Welcome~ I'm minho");
 		
 		// 한줄 주석 - 설명문(컴퓨터는 실행하지 않는 실행문)
 		/*
